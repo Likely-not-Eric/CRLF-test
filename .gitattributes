@@ -1,0 +1,4 @@
+*.crlf  text eol=crlf
+*.lf    text eol=lf
+*.auto  text=auto
+*.bin    -text
